@@ -35,7 +35,7 @@
 	  	color: white;
 	  	text-align: center;
 	  	padding: 20px 16px;
-	  	font-size: 150%;
+	  	font-size: 120%;
 	  	text-decoration: none;
 	  }
 
@@ -60,20 +60,16 @@
 	.contacto{
 		font-size: 1.5em;
 		font-family: Poppins;
-		color: white;
+		color: #53354a;
 		text-decoration: none;
 	}
 </style>
+<script type="text/javascript" src="js/menu.js">
 
+</script>
 </head>
 <body>
 <div id="nav">
-	<ul>
-	<li><a href="#">¿Qué es esto?</a></li>
-	<li><a href="javascript:producto()">Contacto</a></li>
-	<li><a href="javascript:contacto()">Lista de productos</a></li>
-	<li style="float:right"><a class="active" href="/framework/login.php">Cerrar Sesion</a></li>
-	</ul>
 
 </div>
 
